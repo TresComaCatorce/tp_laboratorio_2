@@ -13,3 +13,8 @@ C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\Entidades\obj\Debug\E
 C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\FerreroCristian\TPSLAB2\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\FerreroCristian\TPSLAB2\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\FerreroCristian\TPSLAB2\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\FerreroCristian\TPSLAB2\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\FerreroCristian\TPSLAB2\TP-02\Entidades\obj\Debug\Entidades.pdb

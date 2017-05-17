@@ -70,20 +70,9 @@ namespace Entidades_2017
             sb.AppendLine("");
             foreach (Producto v in this._productos)
             {
-                switch (tipo)
+                if( tipo == ETipo.Todos || tipo == ETipo.Snacks && v is Snacks || tipo == ETipo.Dulce && v is Dulce || tipo == ETipo.Leche && v is Leche)
                 {
-                    case ETipo.Snacks:
-                        sb.AppendLine(v.Mostrar());
-                        break;
-                    case ETipo.Dulce:
-                        sb.AppendLine(v.Mostrar());
-                        break;
-                    case ETipo.Leche:
-                        sb.AppendLine(v.Mostrar());
-                        break;
-                    default:
-                        sb.AppendLine(v.Mostrar());
-                        break;
+                    sb.AppendLine(v.Mostrar());
                 }
             }
 
@@ -101,7 +90,7 @@ namespace Entidades_2017
         /// <returns></returns>
         public static Changuito operator +(Changuito c, Producto p)
         {
-            if(c._productos.Count<c._espacioDisponible)
+            if (c._productos.Count < c._espacioDisponible)
             {
                 c._productos.Add(p);
             }

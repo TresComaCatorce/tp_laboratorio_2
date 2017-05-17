@@ -22,3 +22,11 @@ C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\TP-02\bin\Debug\TP-02
 C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\TP-02\bin\Debug\TP-02.pdb
 C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\TP-02\bin\Debug\Entidades.dll
 C:\Users\crist\Documents\Visual Studio 2012\Projects\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\FerreroCristian\TPSLAB2\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
