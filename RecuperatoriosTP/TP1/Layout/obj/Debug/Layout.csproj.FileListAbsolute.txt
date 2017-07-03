@@ -1,0 +1,11 @@
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\bin\Debug\Layout.exe.config
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\bin\Debug\Layout.exe
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\bin\Debug\Layout.pdb
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\obj\Debug\Layout.csprojResolveAssemblyReference.cache
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\obj\Debug\Layout.Properties.Resources.resources
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\obj\Debug\Layout.csproj.GenerateResource.Cache
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\obj\Debug\Layout.exe
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\obj\Debug\Layout.pdb
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\bin\Debug\Entidades.dll
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\bin\Debug\Entidades.pdb
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Layout\obj\Debug\Layout.frmCalculadora.resources

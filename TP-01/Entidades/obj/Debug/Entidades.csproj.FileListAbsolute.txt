@@ -1,0 +1,5 @@
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\crist\Desktop\TP1\Ferrero.Cristian.2D.TP1\Entidades\obj\Debug\Entidades.pdb
