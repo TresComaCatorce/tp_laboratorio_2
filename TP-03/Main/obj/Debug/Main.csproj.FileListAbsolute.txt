@@ -1,0 +1,14 @@
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Main.exe.config
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Main.exe
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Main.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Archivos.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Clases Abstractas.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Clases Instanciables.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Clases Abstractas.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Clases Instanciables.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\obj\Debug\Main.exe
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Main\obj\Debug\Main.pdb

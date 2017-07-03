@@ -1,0 +1,7 @@
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\crist\Desktop\TP3.MIO\Ferrero.Cristian.2D.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
